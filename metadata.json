@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI",
+  "description": "Personal voice AI companion with conversational Hinglish personality and real Android device control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
